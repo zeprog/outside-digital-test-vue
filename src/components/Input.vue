@@ -173,7 +173,6 @@ export default {
         background: url('../assets/img/check.svg') no-repeat;
         width: 20px;
         height: 20px;
-        border: 1px solid linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%), #FF5E56;
         border-radius: 6px;
         position: absolute;
         top: 25%;
